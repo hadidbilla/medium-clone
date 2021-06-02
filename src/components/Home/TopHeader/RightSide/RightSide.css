@@ -1,0 +1,15 @@
+.main-button {
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 50px;
+  background-color: white;
+}
+.follow-btn {
+  border: 0px;
+  background-color: #1a8917;
+  border-radius: 50px;
+  padding: 5px 10px;
+}
+.follow-card {
+  border-bottom: 1px solid lightgray;
+}
